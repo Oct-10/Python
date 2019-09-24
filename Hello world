@@ -1,1 +1,4 @@
+improt time
+
+time.sleep(1.5)
 print('Hello!world~')
